@@ -1,6 +1,6 @@
 # BotIO
 
-# Development and Implementation of a grading model to correct definitions for Operations Research based on Artificial Intelligence. Get to know (BotIO), a pedagogic experience.
+## Development and Implementation of a grading model to correct definitions for Operations Research based on Artificial Intelligence. Get to know (BotIO), a pedagogic experience.
  
 As educators and students, it is interesting to propose how thinking on solutions based on Artificial Intelligence may add value on the teaching activities in the educational environment, helping to dodge the issues inherent to the actual Argentine reality towards public education. Particularly, we aim to build and implement a model that grades answers to definitions evaluated in Operations Research. The idea is to give an idea to the level of accuracy of short answers to questions such as, for example: “What is Operations Research?”, “What is a model?”, “What is an algorithm?”. 
 The model, designed by both teachers and students, can be understood as a function that uses the text answer as input and returns to the student the corresponding grade according to the similarities to a pattern answer that is provided and assumed as correct. This model has a simple approach and integrates other algorithms and models used in OR, and consists of obtaining the key words of the correct definition and considering its stem (the main root). Given an answer, the score will be directly linked to the amount of word coincidences found comparing it to the correct definition. 
