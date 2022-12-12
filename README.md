@@ -7,3 +7,5 @@ The model, designed by both teachers and students, can be understood as a functi
 This project, even at a baseline level, has reached a performance similar to the hand-made corrections by teachers and students according to the data we have collected.
 The grading system was tested during the examination instance for Operations Research I in the first semester of 2022, on Industrial Engineering students from Universidad de Buenos Aires. The experience of the development and implementation of the model allows us to rehearse consultant and client roles for the tuning of an Artificial Intelligence model.
 The whole process we have shared allowed us to answer interrogatives such as “How do AI solutions work?”,”How is the model trained?”,”How do you implement it?”, “What is the error? What does this imply?”, “What conflicts arise from the implementation of the model?”, “What is the real value this provides?”, “How can you work with bias and keep improving the model?”.
+
+Try the [Shiny App](https://xavierign.shinyapps.io/BotIO/)
