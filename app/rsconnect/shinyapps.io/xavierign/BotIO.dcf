@@ -1,0 +1,12 @@
+name: BotIO
+title: BotIO
+username:
+account: xavierign
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7875030
+bundleId: 6627373
+url: https://xavierign.shinyapps.io/BotIO/
+when: 1670856556.18704
+asMultiple: FALSE
+asStatic: FALSE
